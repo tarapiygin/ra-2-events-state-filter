@@ -1,0 +1,15 @@
+.toolbar {
+  padding: 0;
+}
+
+.toolbar_filter {
+  display: inline-block;
+  margin-right: 5px;
+  padding: 3px 7px;
+  border: 1px solid black;
+}
+
+.toolbar_filter__selected {
+  background-color: black;
+  color: #ffffff;
+}
